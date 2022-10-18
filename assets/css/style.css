@@ -1,22 +1,23 @@
 * {
     box-sizing: border-box;
-    padding: 0;
+    padding: 4;
     margin: 0;
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #0f0f0f;
 }
 
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #1e057a;
     color: #ffffff;
 }
 
 header h1 {
     display: inline-block;
+    padding: 20px
     font-size: 48px;
 }
 
@@ -25,11 +26,11 @@ header h1 .seo {
 }
 
 header div {
-    padding-top: 15px;
+    padding-top: 30px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 40px;
 }
 
 header div ul {
@@ -47,7 +48,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 25px;
 }
 
 .hero {
@@ -83,11 +84,11 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #e41818;
 }
 
 .benefit-lead {
-    margin-bottom: 32px;
+    margin-bottom: 40px;
     color: #ffffff;
 }
 
@@ -174,18 +175,18 @@ p {
 }
 
 .search-engine-optimization h2 {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     font-size: 36px;
 }
 
 .online-reputation-management h2 {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     font-size: 36px;
 }
 
 .social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+    margin-bottom: 25px;
+    font-size: 40px;
 }
 
 .footer {
@@ -196,5 +197,5 @@ p {
 }
 
 .footer h2 {
-    font-size: 20px;
+    font-size: 25px;
 }
