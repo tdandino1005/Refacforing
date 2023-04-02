@@ -1,8 +1,7 @@
 # Refacforing
 
 
-![Alt text](![image](https://user-images.githubusercontent.com/114967217/229367453-2f92ebb8-290b-4751-8dc5-b0c2bd94c29d.png)
-"Screenshot")
+![Alt text](./assets/screenshot.JPG "Screenshot")
 
 ## Link
 
