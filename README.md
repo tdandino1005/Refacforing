@@ -38,4 +38,4 @@ This is a demo webpage was displayed to help utilize git, HTML, and CSS skills i
   ## Questions
 
   For any questions, please feel free to contact me: tdandino1005@gmail.com <br>
-  To checkout my github: [tdanidno1005](https://github.com/tdandino1005)
+  To checkout my github: [tdandino1005](https://github.com/tdandino1005)
