@@ -1,20 +1,24 @@
 # Refacforing
 
-
-![Alt text](image.png"Screenshot")
+![screenshot]((image.png))
 
 ## Link
-file:///C:/Users/Stacey%20Dandino/code/Refactoring/index.html
+
+http://127.0.0.1:5500/index.html
+
 
 
 ## Repository Link
+
 https://github.com/tdandino1005/Refactoring
 
 
 ## Description
+
 This is a demo webpage was displayed to help utilize git, HTML, and CSS skills in this class.
 
 ## Table of Contents
+
   * [Installation Instructions](#installation-instructions)
   * [Usage Information](#usage-information)
   * [Questions](#questions)
@@ -28,8 +32,8 @@ This is a demo webpage was displayed to help utilize git, HTML, and CSS skills i
 - HTML
 - CSS
   
+
   ## Questions
-  
-  Please feel free to contact me at:
-  Email: tdandino1005@gmail.com
-  Github: tdandino1005
+
+  For any questions, please feel free to contact me: tdandino1005@gmail.com <br>
+  To checkout my github: [tdanidno1005](https://github.com/tdandino1005)
