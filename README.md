@@ -1,7 +1,7 @@
 # Refacforing
 
 
-![Alt text](./assets/Screenshot.JPG "Screenshot")
+![Alt text](./assets/screenshot.JPG "Screenshot")
 
 ## Link
 
